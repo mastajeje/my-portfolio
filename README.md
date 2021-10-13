@@ -29,15 +29,16 @@
 
 > - 프로젝트의 기획, 프론트엔드/백엔드/DB 설계와 개발, 배포까지 풀 사이클로 개발
 > - MVC 패턴을 이용하여 개발
-> - 아임포트를 사용하여 결제기능 구현(테스트 계정)
 > - JWT를 사용하여 토큰 기반 사용자 인증
 > - 프론트엔드에서 관리자가 상품이미지를 등록하면 백엔드에서 Multer를 통해 해당 파일을 Amazon s3에 저장
+> - 아임포트를 사용하여 결제기능 구현(테스트 계정)
+> - PC, 노트북, 모바일 환경을 고려한 반응형 사이트
 > - Netlify(프론트엔드), Heroku(백엔드)를 통한 서비스배포
 
 ### 기술 스택
 
 > Frontend: JavaScript / React / SASS(SCSS)  
-> Backend: Node.js / Express / MySQl
+> Backend: Node.js / Express / MySQL \
 > Deployment: Netlify / Heroku
 
 ### 문제해결 사례
