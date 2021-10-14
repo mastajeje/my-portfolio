@@ -23,7 +23,7 @@
 
 ### <a href="https://github.com/flexing1010/Tennis365/blob/main/README.md">깃허브 페이지</a>
 
-![365-main1](https://user-images.githubusercontent.com/79352105/136037615-333a6fa2-502b-4e31-80a8-49039bdadb11.gif)
+![365-main1](https://user-images.githubusercontent.com/79352105/137228810-62e88c17-1c7a-499e-b6e9-b10d8a6de1e6.gif)
 
 ### 개발 주요 사항
 
