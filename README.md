@@ -5,7 +5,6 @@
 > <br />
 > <img src='https://user-images.githubusercontent.com/79352105/136808119-e5843d4a-e238-4207-8056-dc1163690dff.jpg' alt='증명사진' width=200, height=260>
 
-- 연락처 : 010-8716-1284
 - 이메일 : jeongjin.jj.kim@gmail.com
   <br />
   <br />
