@@ -3,7 +3,6 @@
 > ### 문제해결에 집착하는 개발자, 김정진입니다!
 >
 > <br />
-> <img src='https://user-images.githubusercontent.com/79352105/136808119-e5843d4a-e238-4207-8056-dc1163690dff.jpg' alt='증명사진' width=200, height=260>
 
 - 이메일 : jeongjin.jj.kim@gmail.com
   <br />
