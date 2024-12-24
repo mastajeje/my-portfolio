@@ -1,21 +1,53 @@
 # 김정진(Jeongjin Kim)
 
-> ### 문제해결에 집착하는 개발자, 김정진입니다!
->
-> <br />
+ ### 3년차 프론트엔드 개발자, 김정진입니다
+```
+ 3년 차 개발자로 스타트업에서 커뮤니케이션 플랫폼 서비스의 웹 앱 개발을 담당했습니다. 프론트엔드 개발을 주로 맡았지
+만, 필요에 따라 백엔드 개발도 겸하였습니다. 
+같은 팀의 팀원들은 물론 다양한 직무의 팀원들과 적극적으로 협업하고, 때로는 독립적으로 프로젝트를 이끌며 회사의 성장
+에 필요한 역할을 수행해왔습니다. 스타트업 특유의 빠른 변화 속에서 문제 해결 능력과 유연성을 키워왔습니다.
+```
+<br />
 
-- 이메일 : jeongjin.jj.kim@gmail.com
+- 이메일: jeongjin.jj.kim@gmail.com
+- LinkedIn: [linkedin.com/in/jeongjin-kim](https://www.linkedin.com/in/jeongjin-kim-bb12b2190/) 
   <br />
   <br />
+
+<!-- ## Work Experience
+#### ZINNOTECH </br> (프론트엔드 개발 | 연구개발 2팀) -->
 
 ## Projects
 
-- <a href="#tennis365">쇼핑몰 사이트</span>
-- <a href="#portfolio">치과위생사 포트폴리오 사이트 의뢰</span>
+- <a href="#match-tracker">테니스 클럽 매치 트래커</a>
+- <a href="#tennis365">쇼핑몰 사이트</a>
+- <a href="#portfolio">치과위생사 포트폴리오 사이트 의뢰</a>
 
-<br />
+</br>
 
+<!-- 매치 트래커 소개 -->
+
+## <span id="match-tracker">테니스 클럽 매치 트래커</span>
+#### 2024.11 ~2024.12
+
+### <a href="https://tennis365-management-q7gc-rl0j38vpx-mastajejes-projects.vercel.app/win-rate">사이트 바로가기</a>
+
+### <a href="https://github.com/mastajeje/tennis365-management/tree/main/tennis365-management">깃허브 페이지</a>
+
+### 개발 주요 사항
+> - 한 명이 수작업으로 진행하던 경기 승률 기록과 순위 산정의 오류 및 실시간 확인 불가 문제를 해결하고자 시작한 프로젝트
+> - 회원이 직접 경기 결과를 등록하면 자동으로 결과표에 반영되도록 하여 정확성과 운영 편의성 향상.
+> - 확장성과 유지보수성을 고려해 Next.js와 TypeScript를 사용해 회원 관리 및 코트 예약 관리 기능 추가를 용이하게 설계.
+> - 클라우드 DB 무료 플랜의 제약을 해결하기 위해 우분투 기반의 On-premise 데이터베이스 환경 구축 및 DDNS 설정을 통해 안정적 외부 접근 구현.
+
+### 기술 스택
+> Frontend: Next.js \
+> Backend: PostgreSQL \
+> Deployment: Vercel
+
+<!-- 쇼핑몰 사이트 소개 -->
 ## <span id="tennis365">쇼핑몰 사이트(Tennis 365)</span>
+#### 2021.07 ~ 2021.09
 
 ### <a href="https://sleepy-austin-0254fa.netlify.app/">사이트 바로가기</a>
 
@@ -55,7 +87,8 @@
 <br />
 <br />
 
-## <span id="portfolio">치과위생사 포트폴리오 사이트 의뢰</span>
+## <span id="portfolio">치과위생사 포트폴리오 사이트 의뢰 </span>
+#### 2021.06
 
 ### <a href="https://flexing1010.github.io/Jinah-s-Portfolio-Website/">사이트 바로가기</a>
 
