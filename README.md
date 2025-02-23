@@ -90,9 +90,9 @@
 ## <span id="portfolio">치과위생사 포트폴리오 사이트 의뢰 </span>
 #### 2021.06
 
-### <a href="https://flexing1010.github.io/Jinah-s-Portfolio-Website/">사이트 바로가기</a>
+### <a href="https://mastajeje.github.io/Jinah-s-Portfolio-Website/">사이트 바로가기</a>
 
-### <a href="https://github.com/flexing1010/Jinah-s-Portfolio-Website">깃허브 페이지</a>
+### <a href="https://github.com/mastajeje/Jinah-s-Portfolio-Website">깃허브 페이지</a>
 
 <br />
 
