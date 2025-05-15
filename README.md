@@ -34,6 +34,8 @@
 
 ### <a href="https://github.com/mastajeje/tennis365-management/tree/main/tennis365-management">깃허브 페이지</a>
 
+![프로젝트](https://github.com/user-attachments/assets/1abff18d-5889-4d14-a309-aa0f4d92d8d0)
+
 ### 개발 주요 사항
 > - 한 명이 수작업으로 진행하던 경기 승률 기록과 순위 산정의 오류 및 실시간 확인 불가 문제를 해결하고자 시작한 프로젝트
 > - 회원이 직접 경기 결과를 등록하면 자동으로 결과표에 반영되도록 하여 정확성과 운영 편의성 향상.
